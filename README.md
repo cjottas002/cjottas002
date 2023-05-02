@@ -10,7 +10,7 @@ Cuando no estoy codificando, me puedes encontrar leyendo sobre nuevas tecnologí
 
 Si quieres colaborar en un proyecto o simplemente decir hola, no dudes en enviarme un mensaje. 
 
-🔭 Actualmente estoy trabajando en: dos proyectos Java y Kotlin para seguir creciendo.
+🔭 Actualmente estoy trabajando en: dos proyectos Java y Kotlin para seguir creciendo.  
 🌱 Actualmente estoy aprendiendo: Java, Kotlin y desarrollo de Android  
 👯 Estoy buscando colaborar en: Proyectos de Java, Kotlin/Android  
 📫 Cómo contactarme: [correo electrónico](mailto:joseortiz66@hotmail.com)
