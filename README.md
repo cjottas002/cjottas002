@@ -4,11 +4,11 @@ I am a passionate software developer with over 3 years of experience specializin
 
 My technical skills include, but are not limited to: .NET, C#, SQL Server, Razor, Angular, design patterns, clean architecture, and I am now expanding my horizons by learning Java, Kotlin, and Android app development.
 
-I strongly believe in continuous learning and am always seeking new technologies and tools to learn. Additionally, I enjoy collaborating with others and believe that teamwork is key to creating high-quality software products.
+I strongly believe in continuous learning and I am always seeking new technologies and tools to learn. Additionally, I enjoy collaborating with others and believe that teamwork is key to creating high-quality software products.
 
 When I'm not coding, you can find me reading about new technologies, exploring nature, or spending time with my loved ones.
 
-If you want to collaborate on a project or simply say hello, feel free to send me a message.
+If you want to collaborate on a project or just say hello, feel free to send me a message.
 
 🔭 I'm currently working on: two Java and Kotlin projects to further grow my skills.  
 🌱 I'm currently learning: Java, Kotlin, and Android development.  
