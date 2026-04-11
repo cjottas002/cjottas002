@@ -30,7 +30,7 @@ Specialized in **backend architecture with .NET** and **Azure**, with a focus on
 
 ### 📫 Contact
 
-- 💼 **LinkedIn:** [jose-luis-o-aa3a47184](https://www.linkedin.com/in/jose-luis-o-aa3a47184)
+- 💼 **LinkedIn:** [joseluisortega-dev](https://www.linkedin.com/in/joseluisortega-dev)
 - 📧 **Email:** [joseortiz66@hotmail.com](mailto:joseortiz66@hotmail.com)
 - 🌍 **Languages:** Spanish (native) · English B2 (professional environment)
 - 💻 Available **100% remote**
@@ -78,7 +78,7 @@ Especializado en **arquitectura backend con .NET** y **Azure**, con foco en sist
 
 #### 📫 Contacto
 
-- 💼 **LinkedIn:** [jose-luis-o-aa3a47184](https://www.linkedin.com/in/jose-luis-o-aa3a47184)
+- 💼 **LinkedIn:** [joseluisortega-dev](https://www.linkedin.com/in/joseluisortega-dev)
 - 📧 **Email:** [joseortiz66@hotmail.com](mailto:joseortiz66@hotmail.com)
 - 🌍 **Idiomas:** Español (nativo) · Inglés B2 (entorno profesional)
 - 💻 Disponible **100% remoto**
